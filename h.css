@@ -1,0 +1,27 @@
+#outer-box{
+    background-color: purple;
+}
+.box{
+    background-color:yellowgreen;
+    padding: 10px;
+
+}
+.inner-box{
+    height: 500px;
+    width: px;
+    background-color: red;
+    margin-top: 50px;
+}
+.p{
+    color: aqua;
+    margin: 0px;
+    padding: 0px;
+    font-size: xx-small;
+    text-align: center;
+}
+img{
+    height: 500px;
+    width: 90%;
+    margin-left: 65px;
+
+}
